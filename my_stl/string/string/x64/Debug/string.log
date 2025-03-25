@@ -1,0 +1,13 @@
+﻿  test.cpp
+C:\Users\24139\Desktop\repos\code2025\25_1_\string\string\test.cpp(189,25): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\24139\Desktop\repos\code2025\25_1_\string\string\test.cpp(194,25): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\24139\Desktop\repos\code2025\25_1_\string\string\string.h(195,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+C:\Users\24139\Desktop\repos\code2025\25_1_\string\string\string.h(207,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+C:\Users\24139\Desktop\repos\code2025\25_1_\string\string\string.h(213,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+  string.vcxproj -> C:\Users\24139\Desktop\repos\code2025\25_1_\string\x64\Debug\string.exe

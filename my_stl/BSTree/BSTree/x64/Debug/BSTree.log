@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\24139\Desktop\repos\code2025\25_2_\BSTree\BSTree\BSTree.hpp(153,1): warning C4715: “BSTree<int>::Erase”: 不是所有的控件路径都返回值
+  BSTree.vcxproj -> C:\Users\24139\Desktop\repos\code2025\25_2_\BSTree\x64\Debug\BSTree.exe
